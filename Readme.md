@@ -16,9 +16,14 @@ Click here to visit our web:- [IndoFest](https://indofest.netlify.app/)
 ---
 **Festival**
 ---
-![Festival photo](./img/web-1.png)
+![Festival photo](./img/festival-1.png)
 
-![Festival photo](./img/web-1.png)
+![Festival photo](./img/festival-2.png)
+
+![Festival photo](./img/festival-3.png)
+
+---
+---
 
 **Contact**
 ---
