@@ -1,0 +1,29 @@
+.self-info{
+    border: 2px solid black;
+    width: 400px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: bisque;
+}
+
+.image{
+    border-radius: 20px;
+}
+
+.image:hover{
+    height: 250px;
+    transition: 1s;
+}
+
+a{
+    padding-right: 15px;
+}
+
+p{
+    color: black;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 23px;
+}
