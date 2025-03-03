@@ -10,6 +10,7 @@
     display: block;
     margin: 20px auto;
 }
+
 .sub_card{
     width: 540px;
     padding: 10px;
@@ -21,6 +22,7 @@
     display: block;
     margin: 0 auto;
 }
+
 .map{
     width: 600px;
     padding: 10px;
@@ -31,4 +33,8 @@
     box-shadow: 0 0 10px 5px rgb(162, 162, 162);
     display: block;
     margin: 0 auto;
+}
+
+.ganeshji-img , .ganeshji-video{
+    border-radius: 20px;
 }
