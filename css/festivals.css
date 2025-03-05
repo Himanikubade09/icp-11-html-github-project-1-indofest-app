@@ -35,6 +35,19 @@
     margin: 0 auto;
 }
 
-.ganeshji-img , .ganeshji-video{
-    border-radius: 20px;
+.primary-img , .primary-video{
+    border-radius: 5px;
+}
+
+.card{
+    height: 100px;
+    padding: 5px;
+    background-color:bisque;
+    color:black ;
+    justify-content:center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 5px rgb(162, 162, 162);
+    display: block;
+    margin: 20px auto;
 }
