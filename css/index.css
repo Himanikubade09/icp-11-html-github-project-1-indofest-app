@@ -1,0 +1,48 @@
+.header-img{
+    height: 150px;
+    width: 1240px;
+    border-radius: 30px;
+}
+
+.festiv-div{
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 350px;
+    padding: 20px;
+    height: 300px;
+    background-color: bisque;
+}
+
+.fest-img-home{
+    border-radius: 15px;
+    height: 150px;
+    width: 250px;
+}
+
+.fest-img-home:hover{
+    height:180px;
+    width: 290px;
+    transition: 1s;
+    box-shadow: 0 0 20px 20px white;
+}
+
+.btn-home{
+    border-radius: 30px;
+    background-color: white;
+    color: white;
+}
+
+.btn-home:hover{
+    width: 90px;
+    transition: 1s;
+    box-shadow: 0 0 10px 10px blue;
+    cursor: pointer;
+}
+
+.highlights{
+    border-radius: 30px;
+    border: 5px solid black;
+    padding: 20px;
+    background-color: bisque;
+    width: 350px;
+}
